@@ -1,1 +1,11 @@
+# How to build ml model
+- Spilt data
+- Train model
+- Test model
+- Scoring model
 
+# ML model in this project as below
+- Binary Classicfication
+- Decision Tree
+- Random Forest
+- Regularized
